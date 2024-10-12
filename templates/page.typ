@@ -25,6 +25,7 @@
 // Fonts
 #let main-font = (
   "Charter",
+  "FZShuSong",
   "Source Han Serif SC",
   "Source Han Serif TC",
   // shiroa's embedded font
