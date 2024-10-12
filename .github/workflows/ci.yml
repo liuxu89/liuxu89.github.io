@@ -32,7 +32,7 @@ jobs:
         run: |
           # This assumes your book is in the root of your repository.
           # Just add a `cd` here if you need to change to another directory.
-          shiroa build --font-path ./assets/fonts/ --path-to-root /Principles/
+          shiroa build --font-path ./assets/fonts/ --path-to-root /liuxu89.github.io/
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
