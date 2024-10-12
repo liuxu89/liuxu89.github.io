@@ -7,7 +7,7 @@
   title: "Wiki",
   summary: [
     = 文摘
-      - #chapter("src/daijinhua1.typ")[大众文化的隐形政治学]
+    - #chapter("src/daijinhua1.typ")[大众文化的隐形政治学]
   ]
 )
 
